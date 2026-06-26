@@ -1,6 +1,6 @@
-streamlit==1.32.0
-torch --index-url https://download.pytorch.org/whl/cpu
-transformers==4.38.0
-pandas==2.2.0
-numpy==1.26.0
-google-generativeai==0.4.0
+streamlit
+torch
+transformers
+pandas
+numpy
+google-generativeai
